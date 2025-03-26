@@ -7,7 +7,7 @@ This is a basic text editor. Why this exists? I had an idea of doing it.
 ## How to use it?
 Well, this is written in C language, so you need to compile it.
 
-### How to compie i?
+### How to compie it?
 Easy. 
 #### On GNU+Linux:
 `gcc Tree-Editor/main.c -o a.out $(pkg-config --cflags --libs gtk+-3.0)`
